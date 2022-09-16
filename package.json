@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.16.2",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "husky": "^0.14.3",
     "lint-staged": "^4.0.3",
     "lodash": "^4.17.5",
